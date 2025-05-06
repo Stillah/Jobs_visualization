@@ -98,7 +98,7 @@ for i, (wedge, label, size) in enumerate(zip(wedges, filtered_labels, filtered_s
         label_y += label_spacing
 
 plt.text(
-    -2.2, 1.75,  # Position of the box (adjust as needed)
+    -2.2, 1.75,  # -2.1, 1.40 for cyber security, (Position of the box)
     """
     Most required skills for data sciene related jobs
     Data is collected from hh.ru for Russia, Belarus, Kazakhstan
