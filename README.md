@@ -2,7 +2,7 @@
 
 Two pie charts represent skills required for jobs related with data science and cyber security.
 
-Another 2 represent salary distribution offered in these vacancies.
+Another two bar charts represent salary distribution offered in these fields.
 
 ![Required skills for data science jobs](visualizations/ds_skills.png)
 ![Required skills for cyber security jobs](visualizations/cs_skills.png)
