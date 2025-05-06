@@ -1,7 +1,15 @@
 ## Bonus assignment for Data wrangling and visualization course
 
 Two pie charts represent skills required for jobs related with data science and cyber security.
+
 Another 2 represent salary distribution offered in these vacancies.
+
+![Required skills for data science jobs](visualizations/ds_skills.png)
+![Required skills for cyber security jobs](visualizations/cs_skills.png)
+
+![Salary distribution for data science jobs](visualizations/ds_salary.png)
+![Salary distribution for cyber security jobs](visualizations/cs_salary.png)
+
 
 All job postings were collected from hh.ru with region set to Russia, Belarus, and Kazakhstan
 
